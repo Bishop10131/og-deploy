@@ -1,0 +1,2 @@
+# og-deploy
+deploy eks
